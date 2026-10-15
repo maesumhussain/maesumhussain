@@ -16,7 +16,7 @@ I enjoy building practical applications that combine data analysis, predictive m
 
 ## 🚀 Featured Projects
 
-### 📈 Machine Learning-Based Cryptocurrency Forecasting Platform
+### 📈 Machine Learning Based Cryptocurrency Forecasting Platform
 
 Developed an end-to-end machine learning platform for forecasting next day cryptocurrency prices and returns across **25 cryptocurrency pairs**, using approximately 10 years of historical market data.
 
