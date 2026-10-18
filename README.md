@@ -1,6 +1,6 @@
 # Hi, I'm Maesum 👋
 
-I'm a **First-Class BSc Computer Science (Artificial Intelligence) graduate** from **Royal Holloway, University of London**, with interests in **Machine Learning, Data Science, Quantitative Finance and Software Engineering**.
+I'm a **First Class BSc Computer Science (Artificial Intelligence) graduate** from **Royal Holloway, University of London**, with interests in **Machine Learning, Data Science, Quantitative Finance and Software Engineering**.
 
 I enjoy building practical applications that combine data analysis, predictive modelling and software development. My projects range from cryptocurrency forecasting and computational finance to multi-agent AI systems and full stack applications.
 
@@ -20,7 +20,7 @@ I enjoy building practical applications that combine data analysis, predictive m
 
 Developed an end-to-end machine learning platform for forecasting next day cryptocurrency prices and returns across **25 cryptocurrency pairs**, using approximately 10 years of historical market data.
 
-- Implemented and compared six regression and neural-network models.
+- Implemented and compared six regression and neural network models.
 - Engineered technical indicators and lag based predictive features.
 - Evaluated model performance using rolling validation and time-series cross-validation.
 - Built an interactive PyQt5 dashboard for predictions, model comparisons and historical performance analysis.
@@ -35,7 +35,7 @@ Implemented and compared three approaches to financial option valuation:
 
 - Black–Scholes analytical pricing.
 - Binomial tree pricing for European and American options.
-- Monte Carlo simulation using geometric Brownian motion, including 100,000 simulated asset-price paths.
+- Monte Carlo simulation using geometric Brownian motion, including 100,000 simulated asset price paths.
 
 **Technologies:** Python, NumPy, numerical analysis, probability theory
 
@@ -79,7 +79,7 @@ Collaborated on an autonomous robotic forklift using LEGO Mindstorms EV3 and Jav
 
 ## 🎯 Career Interests
 
-I'm interested in graduate and entry level opportunities across **Machine Learning, Data Science, Quantitative Finance and Software Engineering**, where I can apply my technical knowledge while continuing to develop as an engineer and problem-solver.
+I'm interested in graduate and entry level opportunities across **Machine Learning, Data Science, Quantitative Finance and Software Engineering**, where I can apply my technical knowledge while continuing to develop as an engineer and problem solver.
 
 ## 📫 Connect With Me
 
